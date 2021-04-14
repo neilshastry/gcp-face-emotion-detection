@@ -3,15 +3,18 @@
 ## Background
 To illustrate the steps and code required to use the Google Cloud Vision API for emotion detection within an image.
 
+## Objective:
+Identify the emotion likelihood for all faces detected in the image.
+
+## Tools
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
 **Sample Use Case:**
 A picture of friends
 Picture Courtesy: [Westend61](https://www.westend61.de/en/imageView/AFVF05511/portrait-of-happy-friends-sitting-on-a-wall-outdoors)
 
 ![Happy Friends](https://user-images.githubusercontent.com/36125669/114277320-467a7a80-9a5d-11eb-95f4-9ba4266fbac1.jpg)
-
-
-**Objective:**
-Identify the emotion likelihood for all faces detected in the image.
 
 ### Prerequisites
 Steps 1 and 2 are prerequisites to sign-up for the Google Cloud Platform and enable the Vision API.
