@@ -1,6 +1,6 @@
 # Google Cloud Vision API - Use Case for detecting Facial Emotions within an Image
 
-## Objective
+## Background
 To illustrate the steps and code required to use the Google Cloud Vision API for emotion detection within an image.
 
 **Sample Use Case:**
